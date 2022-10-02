@@ -20,3 +20,4 @@ P 位置工具
 cmd + z 撤销
 cmd + ‘+’ ‘-’ 放大缩小
 cmd + opt + R 重置
+cmd + r 变速

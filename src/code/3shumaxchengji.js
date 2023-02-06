@@ -34,7 +34,7 @@ function xianxing(nums) {
     } else if (x > max3) {
       max3 = x
     }
-
   }
+  return Math.max(min1 * min2 * max1, max1 * max2 * max3)
 }
 console.log(xianxing([1, 2, 3, 4, 5, 6]))
